@@ -184,8 +184,8 @@ sub_custom_question_submit_click = 619 === 0.0 %
 
 Ноутбуки с разведовательным анализом данных и исследованием моделей для задачи:
 
-* [step_1_data_analises.ipynb](https://github.com/UzunDemir/Final_Project_Skillbox_SberAutoPodpiska/blob/main/step_1_data_analises.ipynb). Здесь мы проводим анализ данных клиентских сессий сервиса 'СберАвтоподписка'. В этом ноутбуке реализованы три стадии машинного обучения: Business understanding, Data understanding, Data preparation.
-* [step_2_model_research.ipynb](https://github.com/UzunDemir/Final_Project_Skillbox_SberAutoPodpiska/blob/main/step_2_model_research.ipynb). Здесь мы непосредственно будем заниматься исследованиями, разработкой и оптимизацией модели.
+* [step_1_data_analises.ipynb](https://github.com/UzunDemir/Interview/blob/main/step_1_data_analises.ipynb). Здесь мы проводим анализ данных клиентских сессий сервиса 'СберАвтоподписка'. В этом ноутбуке реализованы три стадии машинного обучения: Business understanding, Data understanding, Data preparation.
+* [step_2_model_research.ipynb](https://github.com/UzunDemir/Interview/blob/main/step_2_model_research.ipynb). Здесь мы непосредственно будем заниматься исследованиями, разработкой и оптимизацией модели.
 
 
 ## Обучение модели
